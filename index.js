@@ -1,3 +1,5 @@
+var recipes = {}
+
 function copyObj(obj){
   return Object.assign({}, obj);
 }
